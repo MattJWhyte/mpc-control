@@ -1,0 +1,6 @@
+[submodule "eufs_sim"]
+	path = eufs_sim
+	url = git@gitlab.com:eufs/eufs_sim.git
+[submodule "eufs_msgs"]
+	path = eufs_msgs
+	url = git@gitlab.com:eufs/eufs_msgs.git
